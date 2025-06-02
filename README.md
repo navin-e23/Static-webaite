@@ -4,7 +4,7 @@ The website is hosted for free using GitHub Pages, making it accessible from any
 
 This is a simple static website built using **HTML** and **CSS**, and hosted for free using **GitHub Pages**.
 >>**LIVE WEBSITE**
-  [https://30srilatha.github.io/static-website/](https://30srilatha.github.io/static-website/)
+  [https://navin-e23.github.io/Static-website/](https://navin-e23.github.io/Static-website/)
 
 
 ** Features**
@@ -43,6 +43,6 @@ Option 1: Upload via GitHub UI
 
 #Access Your Website
 After a few seconds, GitHub will give you a link like:
-https://30srilatha.github.io/static-website/
+https://navin-e23.github.io/Static-website/
 
 
